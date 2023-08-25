@@ -1,0 +1,13 @@
+========================================
+	BinarFud
+========================================
+Terima Kasih Sudah Memesan Di BinarFud
+Dibawah Ini Adalah Pesanan Anda
+Nasi Goreng		 1		 15000.00
+Mie Goreng		 2		 26000.00
+----------------------------------------+
+Total			 3		 41000.0
+Pembayaran : BinarCash
+========================================
+Simpan Struk Ini Sebagai Bukti Pembayaran Anda
+========================================
